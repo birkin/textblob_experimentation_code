@@ -7,7 +7,7 @@ With upcoming Hall-Hoag work, wanted to explore keyword-extraction using TextBlo
 
 
 ## Usage
-- assumes virtualenv is set up and populated from `requirements.txt`
+- assumes a virtual-environment is set up (at sibling level to code) and populated from `requirements.txt`
 - $ cd /path/to/textblob_experimentation_code/
 - $ source ../env/bin/activate
 - $ python ./keywords.py
